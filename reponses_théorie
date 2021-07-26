@@ -1,5 +1,5 @@
 Question 1 :
-
+5 verbes HTTP:
 GET => Permet de récupérer des données d'une API.
 POST => Permet d'envoyer des données vers une API.
 DELETE => Permet de supprimer des données d'une API.
