@@ -1,0 +1,14 @@
+Question 1 :
+
+GET => Permet de récupérer des données d'une API.
+POST => Permet d'envoyer des données vers une API.
+DELETE => Permet de supprimer des données d'une API.
+PUT => Permet de mettre à jour des données d'une API.
+PATCH => ressemble au PUT.
+
+
+Question 2 :
+Une requête HTTP est composé d'un verbe (voir si dessus) d'un path (qui commence par /) et d'un chemin (url).
+
+Question 3:
+Une réponse HTTP comprend un statut (200,300,400,500 selon la réponse), un message du statut qu'y explique le code et un en-tête.
